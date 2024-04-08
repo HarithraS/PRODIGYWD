@@ -1,4 +1,4 @@
-Welcome to my GitHub profile! Here you'll find a collection of projects showcasing my skills and accomplishments during my internship at Prodigy Info Tech. Below are the projects I've worked on:
+Welcome to my GitHub profile! Here you'll find a collection of projects showcasing my skills and accomplishments during my internship at Prodigy InfoTech. Below are the projects I've worked on:
 
 **Interactive Navigation Menu**
 
